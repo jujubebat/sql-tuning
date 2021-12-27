@@ -1,3 +1,5 @@
+[1단계](https://github.com/jujubebat/sql-tuning/tree/step1)
+
 # 🚀 조회 성능 개선하기
 
 ## A. 쿼리 연습
